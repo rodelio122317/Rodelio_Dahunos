@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<title>My Web Page</title>
+
+</head>
+<body>
+		<h1>Hello! My Name Is Rodelio.</h1>
+		<img src="Image/my picture.jpg" style="width: 200px;height: 200px" alt="the image logo: is a picture of the creator. ">
+		<img src="Image/living area.jpg" style="width: 200px;height: 200px style.container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+      }">
+		<img src="Image/laging_handa.jpg" style="width: 200px;height: 200px">
+		<img src="Image/bedroom.jpg" style="width: 200px;height: 200px">
+		<img src="Image/clubfacade.jpg" style="width: 200px;height: 200px">
+		
+		<p>This is my pictures for my sample webpage, I hope that it will give you idea on how to create webpage.</p>
+		
+		<ul>
+			<li>Technologists</li>
+			<li>Thinkers</li>
+			<li>Builders</li>
+		</ul>
+		<p>I'm working together to keep my pictures and webpage alive.</p>
+		<p>Read the link <a href="https://www.Mozilla.org/en-US/about/manifesto/">Mozilla Manifesto.</a> to learn about more studies in this sample webpage, just give me a comment.</p
+
+</body>
+</html>
